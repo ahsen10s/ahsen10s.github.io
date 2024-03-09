@@ -15,7 +15,7 @@ As a 21-year-old university student, I embarked on a transformative journey by e
 
 Before immersing ourselves in the world of digital humanities, we had already developed our own strategies for navigating the digital landscape in both daily life and academics. As an Interactive Media major, I was well-versed in user-centered design and interactive storytelling, often utilizing software like Adobe Creative Suite. My academic journey was marked by problem-solving, algorithm design, and collaborative coding through platforms like GitHub.
 
-![HAM](/assets\images\HAM.png)
+![literacy](/assets\images\literacy.png)
 
 My peers from Computer Science, Film and New Media, Environmental Studies, Business and Marketing, Literature, and Creative Writing had their own digital toolkits. Interactive Media students excelled in coding languages such as Python and Java, using them for content creation, software development, and data manipulation. Film and New Media enthusiasts delved into multimedia production and digital narrative creation. Environmental Studies majors leveraged data analysis software for environmental research, while Business and Marketing students honed their skills in data analytics platforms for market analysis. Students in Literature and Creative Writing dived deep into research databases to fuel their literary and artistic pursuits.
 
