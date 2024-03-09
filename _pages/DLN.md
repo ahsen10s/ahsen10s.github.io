@@ -8,7 +8,6 @@ author_profile: false
 # Course Reflection
 
 ## Step 2
-[google](https://www.google.com)
 
 Today, at 21 years old, I started a new chapter by joining an introductory course in digital humanities. What made it special was the diverse group of classmates from various majors like Computer Science, Interactive Media, Film and New Media, Environmental Studies, Business and Marketing, Literature, and Creative Writing. Each of us brought our own skills and experiences into the mix.
 
@@ -32,7 +31,7 @@ So, this course has been a big deal for all of us. It opened our eyes to new pos
 
 How do I get started? According to Mattingly, in his blog “[How to Get Started with the Digital Humanities in 2023 and Why](https://medium.com/@wjbmattingly/how-to-get-started-with-the-digital-humanities-in-2023-and-why-baed7b8e1177)", he emphasises the importance of hands-on learning and problem-solving in the field of digital humanities. It encourages individuals to engage in personal projects that address problems they find interesting or relevant to their research. He also suggests that tackling such projects not only helps in building a portfolio but also enhances problem-solving skills and technical expertise. 
 
-![digital humanities](/assets\images\digitalhumanities.png)
+![digital humanities](/assets\images\digitalhumanities.jpg)
 
 Personal projects are seen as opportunities to develop skills incrementally, even if the initial attempts are not perfect. He shares their own experience of creating a complex application despite lacking prior programming knowledge. Perhaps this way highlights the importance of perseverance and learning from mistakes, emphasizing that initial projects serve as learning experiences that can be improved upon over time. 
 
@@ -44,7 +43,7 @@ Furthermore, the blog highlights the dynamic nature of digital humanities, notin
 
 This is a bit of a tangent, but my favorite reading in this course thus far is “[Map Power and Map Methodologies for Social Justice](https://www.jstor.org/stable/43773699)” by Shiloh Krupar. He says that with more people making maps, there's a clash between experts and amateurs. Some worry that amateur maps might not be as accurate or reliable as ones made by professionals. This tension shows us that mapping isn't just about drawing lines on a page—it's about who has the power to shape the story.
 
-![map](/assets\images\map.png)
+![map](/assets\images\map.webp)
 
 Another concern is about big companies controlling map data and using it for profit. This raises questions about privacy and who gets to benefit from mapping projects. It's a reminder that not all mapping efforts are equal, and some might serve corporate interests more than the public good.
 
