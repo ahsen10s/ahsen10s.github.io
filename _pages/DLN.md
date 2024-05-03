@@ -33,7 +33,9 @@ There is also a versatility and transferability of skills learned in digital hum
 
 Furthermore, the blog highlights the dynamic nature of digital humanities, noting its continual evolution due to advancements like machine learning. This evolution creates new opportunities for research and problem-solving, making the field perpetually engaging and relevant. Mattingly encourages us to explore digital humanities as a means to engage with their discipline using modern methods, acknowledging that mastery in this area is an ongoing journey rather than a fixed destination.
 
-Voiyant tools is awesome. I am only sad to learn about it so late. I’ve used it for projects outside this course for further insight. It especially comes in handy for analysis for academic papers that I am to study to write essays. Its versatility and adaptability over a variety of text-based projects is perfect when used as a final step to gain clarity on what I am working with.
+![literacy](/assets\images\voyant.png)
+
+Voyant tools is awesome. I am only sad to learn about it so late. I’ve used it for projects outside this course for further insight. It especially comes in handy for analysis for academic papers that I am to study to write essays. Its versatility and adaptability over a variety of text-based projects is perfect when used as a final step to gain clarity on what I am working with.
 
 If it is the author of a work that I am studying, it helps me examine the thematic evolution of their work over time. For example, I can use Voyant to analyze the frequency and distribution of thematic words across the different novels of Virginia Woolf to see how her focus on themes like feminism and existentialism evolved throughout her career. 
 
@@ -61,7 +63,7 @@ The article points out several issues with using AI in art history:
 3.	Need for Critical Examination: The author believes that AI's role in art and history needs more critical examination. They suggest that AI should not replace the deep, thoughtful analysis that human scholars provide in understanding art.
 
 
-The paper “[Collaboration in Digital Humanities Research – Persisting Silences](https://theconversation.com/how-ai-is-hijacking-art-history-170691)” discusses how collaboration is common in Digital Humanities (DH) research but not well-examined or understood, especially regarding the involvement of technology and non-academic partners. The authors argue that discussions about collaboration often miss the complexity and diverse nature of teamwork in DH. They suggest that both human and non-human (like software and technology) participants in research should be considered more carefully to improve how DH research is done.
+The paper “[Collaboration in Digital Humanities Research – Persisting Silences](http://www.digitalhumanities.org/dhq/vol/12/1/000351/000351.html#costis2017)” discusses how collaboration is common in Digital Humanities (DH) research but not well-examined or understood, especially regarding the involvement of technology and non-academic partners. The authors argue that discussions about collaboration often miss the complexity and diverse nature of teamwork in DH. They suggest that both human and non-human (like software and technology) participants in research should be considered more carefully to improve how DH research is done.
 The paper points out several key issues in how collaboration in DH is currently viewed and suggests improvements:
 1.	Overlooked Complexities: Collaborations in DH often involve various disciplines and technologies, but the depth and challenges of these collaborations are rarely discussed in detail. The authors want a fuller, more detailed examination of these issues.
 2.	Challenges of Working Across Different Fields: When researchers from different disciplines work together, they often face difficulties due to their different methods and goals. The paper calls for better ways to handle these differences.
