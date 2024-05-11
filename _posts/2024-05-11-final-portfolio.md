@@ -3,6 +3,8 @@ title: "Final Portfolio"
 categories:
   - Blog
 tags:
+  - chat
+  - Post Formats
   - Assignments
 ---
 
