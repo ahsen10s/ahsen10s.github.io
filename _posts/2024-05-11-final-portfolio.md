@@ -6,7 +6,7 @@ tags:
   - Assignments
 ---
 
-*Below are the embedded files to the two parts of my final portfolio. They exist in the asset folder /assets/files as PDFs.*
+*Below are the embedded files to the two parts of my final portfolio. They exist in the asset folder /assets/slides/files as PPTXs.*
 
 # Project Summary
 
