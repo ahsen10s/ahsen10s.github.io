@@ -16,4 +16,4 @@ tags:
 
 # Unproject Plan (by Ahsen and Yerk)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTh2bUt5RWva_fpnDqH57nm3xtWRS-tBPHsehER7tDZbKp6sQbfzQnvHzLGb9y9DLt01Lpiex8GDhTx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTh2bUt5RWva_fpnDqH57nm3xtWRS-tBPHsehER7tDZbKp6sQbfzQnvHzLGb9y9DLt01Lpiex8GDhTx/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
